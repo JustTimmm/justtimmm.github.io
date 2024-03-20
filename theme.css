@@ -1,4 +1,4 @@
-:root {
+ :root {
 	--clr-primary-100: 42, 88%, 67%;
 	/* #f5c861 */
 	--clr-primary-200: 222, 88%, 67%;
@@ -21,7 +21,8 @@
 	/* #d9d9d9 */
 	--clr-gradient-100: linear-gradient(-45deg, hsl(0, 0%, 0%) 10%, hsl(218, 23%, 9%) 50%);
 	--img-wallpaper-filtered: url('https://assets.namelesshub.com/dist/assets/img/castle.png');
-	--branding: url('https://assets.namelesshub.com/dist/assets/img/nlc-Logo.svg');
+	/* --branding: url('https://assets.namelesshub.com/dist/assets/img/nlc-Logo.svg'); */
+	--branding: url('https://www.google.fr/url?sa=i&url=https%3A%2F%2Factustream.fr%2Fesport%2Fgentle-mates&psig=AOvVaw0EHAiHyEZYmD-lSVUbBJjz&ust=1711032337144000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCKCZyqmKg4UDFQAAAAAdAAAAABAI');
 	--unit-025: 0.025rem;
 	--unit-10: 0.1rem;
 	--unit-15: 0.15rem;
